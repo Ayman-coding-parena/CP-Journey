@@ -1,19 +1,19 @@
-// Problem: Dima and Friends
+// Problem: A - Dima and Friends
 // Platform: codeforces
-// Contest: 1000
+// Contest: Contest-272
 // Rating/Difficulty: 1000
-// Language: C++17
+// Language: C++23 (GCC 14-64, msys2)
 // Verdict: Accepted
-// URL: https://codeforces.com/problemset/submission/272/399941423
-// Solved on: 2026-11-26T20:11:17.095Z
+// URL: https://codeforces.com/contest/272/submission/399945797
+// Solved on: 2026-11-26T20:26:59.253Z
 
 #include <bits/stdc++.h>
 using namespace std;
-
+ 
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(0);
-
+ 
     int n; cin>>n; 
     int arr[n];
     int sum=0;
