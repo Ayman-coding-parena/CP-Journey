@@ -21,13 +21,13 @@ Problems are organized by **platform** and **rating** to make them easier to nav
 
 ```text
 CP-Journey/
-├── Codeforces/
+├── codeforces/
 │   ├── 800/
 │   ├── 900/
 │   └── 1000/
-├── AtCoder/
-├── LeetCode/
-├── CodeChef/
+├── atcoder/
+├── leetcode/
+├── codechef/
 └── ...
 ```
 
