@@ -1,11 +1,11 @@
-// Problem: Effective Approach
+// Problem: B - Effective Approach
 // Platform: codeforces
 // Contest: 1100
 // Rating/Difficulty: 1100
 // Language: C++17
 // Verdict: Accepted
-// URL: https://codeforces.com/problemset/submission/227/400139185
-// Solved on: 2026-11-27T23:02:50.039Z
+// URL: https://codeforces.com/problemset/submission/227/400138891
+// Solved on: 2026-11-27T23:05:05.990Z
 
 #include <bits/stdc++.h>
 using namespace std;
